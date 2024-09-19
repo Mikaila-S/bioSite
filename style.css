@@ -73,4 +73,6 @@ footer {
     border: 3px solid grey; 
     padding:10px 0;
 }
-
+figcaption {
+    color: black;
+}
